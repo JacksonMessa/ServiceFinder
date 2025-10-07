@@ -2,7 +2,7 @@
 
 Este foi um projeto desenvolvido em conjunto por JacksonMessa e JeanMessa como trabalho de conclusão de curso para a graduação de Técnologia em Análise e Desenvolvimento de Sistemas.
 
-O projeto se trate de um aplicativo android desenvolvido em Java com o objetivo de catalogar prestadores de serviço, além disso o firebase é usado para armazenar os dados e arquivos da aplicação, além de enviar notificações.
+O projeto se trata de um aplicativo android desenvolvido em Java com o objetivo de catalogar prestadores de serviço, além disso o firebase é usado para armazenar os dados e arquivos da aplicação, além de enviar notificações.
 
 <h3>Home</h3>
 
